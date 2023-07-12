@@ -36,10 +36,10 @@ A list of topics of interest.
   - [Machine learning beginner](https://github.com/fengdu78/machine_learning_beginner) - In Chinese.
   - [Awesome deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
   - [Awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [Exellent demo]()
+- [Excellent demo]()
   - [ChatGPT](https://openai.com/blog/chatgpt)
   - [ChatGPT desktop](https://github.com/lencx/ChatGPT)
-  - [VQA](https://github.com/vzhou842/easy-VQA-keras) - Visual question answering, a simple example to build your own chatbot.
+  - [VQA](https://github.com/vzhou842/easy-VQA-keras) - Visual question answering, a simple example to build your chatbot.
 
 ## Robotics 
 - [Awesome robotics](https://github.com/Kiloreux/awesome-robotics#readme)
