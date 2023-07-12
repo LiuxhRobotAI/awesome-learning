@@ -3,11 +3,11 @@ A list of topics of interest.
 
 ## Contents
 
-[Basic theory](#Basic-theory)
-[Learning](#learning)
-[Robotics](#robotics)
-[Programming](#programming)
-[Platform](#Platform)
+- [Basic theory](#Basic-theory)
+- [Learning](#learning)
+- [Robotics](#robotics)
+- [Programming](#programming)
+- [Platform](#Platform)
 
 ## Basic theory
 
