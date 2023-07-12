@@ -24,7 +24,7 @@ A list of topics of interest.
 ## learning
 
 - [AI](https://github.com/owainlewis/awesome-artificial-intelligence)
-  - [Tutorial for CNN] (https://github.com/vzhou842/cnn-from-scratch) - Most recommended, the easiest tutorial for CNN].
+  - [Tutorial for CNN] (https://github.com/vzhou842/cnn-from-scratch) - Most recommended, the easiest tutorial for CNN.
   - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - From Microsoft.
   - [Machine learning beginner](https://github.com/fengdu78/machine_learning_beginner) - In Chinese.
   - [Deep learning library](https://github.com/ChristosChristofidis/awesome-deep-learning)
