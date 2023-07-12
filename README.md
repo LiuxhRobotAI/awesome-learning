@@ -2,12 +2,15 @@
 A list of topics of interest.
 
 ## Contents
-[Basic theory](#Basic)
+
+[Basic theory](#Basic-theory)
 [Learning](#learning)
 [Robotics](#robotics)
 [Programming](#programming)
 [Platform](#Platform)
+
 ## Basic theory
+
 - [Basic applied math]()
   - [AI book library](https://www.deeplearningbook.org/)
     - [Machine learning book](https://github.com/aburkov/theMLbook) - The hundred-page machine learning book with code.
@@ -17,6 +20,7 @@ A list of topics of interest.
   - [G2O](https://github.com/RainerKuemmerle/g2o)
   - [Sophus](https://github.com/strasdat/Sophus) - A C++ implementation of Lie groups commonly used for 2d and 3d geometric problems.
   - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Most recommended for algorithm understanding and get starting.
+
 ## learning
 
 - [AI](https://github.com/owainlewis/awesome-artificial-intelligence)
