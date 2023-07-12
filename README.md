@@ -21,8 +21,10 @@ A list of topics of interest.
 - [Implementation and application]()
   - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Most recommended for understanding and getting starting algorithms.
   - [Eigen](https://gitlab.com/libeigen/eigen/-/releases) - Or [this site](http://eigen.tuxfamily.org/)
-  - [G2O](https://github.com/RainerKuemmerle/g2o) - General graph optimization
+  - [G2O](https://github.com/RainerKuemmerle/g2o) - General graph optimization.
+  - [Ceres](http://ceres-solver.org/) - An open-source C++ library for modeling and solving large, complicated optimization problems.
   - [Sophus](https://github.com/strasdat/Sophus) - A C++ implementation of Lie groups commonly used for 2d and 3d geometric problems.
+  - [GTSAM](https://gtsam.org/) - A C++ library that implements sensor fusion for robotics and computer vision applications, including SLAM, VO, and SFM (Structure from Motion). It uses factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices to optimize for the most probable configuration or an optimal plan.
   - [Mosek](https://www.mosek.com/) - Powerful solver to optimization problems. And [Yalmip](https://yalmip.github.io/) - A tool for optimization problems. [Here](https://yalmip.github.io/solver/mosek/) is how it works with Mosek.
   - [SciPy](https://scipy.org/) - SciPy is a math function library that uses NumPy. This library provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics, and many other classes of problems.
   - [Pyomo](https://pyomo.readthedocs.io/en/stable/solving_pyomo_models.html) - Python Optimization Modeling Objects.
@@ -55,6 +57,7 @@ A list of topics of interest.
   - [Path following]()
   - [Trajectory tracking](https://github.com/DongChen06/PathTrackingBicycle)
 - [Computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
+  -[Step by step tutorial for visual SLAM using Python](https://github.com/varyshare/easy_slam_tutorial) 
 - [Object detecting and tracking ](https://github.com/visionml/pytracking) or with [LIDAR](https://github.com/HuangCongQing/3D-LIDAR-Multi-Object-Tracking) and [LIDAR simulation](https://github.com/SS47816/lidar_obstacle_detector)
 - [Journals and conferences]() - Collection of papers
   - [Journals]()
@@ -79,6 +82,7 @@ A list of topics of interest.
   - [ROS2](https://docs.ros.org/)
   
 ## Tools
+- [Jackal Robot simulation platform](http://docs.ros.org/en/latest-available/api/jackal_tutorials/html/simulation.html)
 
 ## Websites
 - [PapersWithCode](https://paperswithcode.com/sota) - Code !!
