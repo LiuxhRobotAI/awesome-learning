@@ -30,6 +30,7 @@ A list of topics of interest.
   - [Deep learning library](https://github.com/ChristosChristofidis/awesome-deep-learning)
   - [Machine learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [ChatGPT](https://github.com/lencx/ChatGPT)
+  - [VQA](https://github.com/vzhou842/easy-VQA-keras) - Visual question answering.
 
 ## Robotics 
 - [Awesome robotics](https://github.com/Kiloreux/awesome-robotics#readme)
