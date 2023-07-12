@@ -23,8 +23,10 @@ A list of topics of interest.
   - [Eigen](https://gitlab.com/libeigen/eigen/-/releases) - Or [this site](http://eigen.tuxfamily.org/)
   - [G2O](https://github.com/RainerKuemmerle/g2o) - General graph optimization
   - [Sophus](https://github.com/strasdat/Sophus) - A C++ implementation of Lie groups commonly used for 2d and 3d geometric problems.
-  - [Mosek](https://www.mosek.com/) - Powerful tool for optimization problems.
+  - [Mosek](https://www.mosek.com/) - Powerful solver to optimization problems. And [Yalmip](https://yalmip.github.io/) - A tool for optimization problems. [Here](https://yalmip.github.io/solver/mosek/) is how it works with Mosek.
   - [SciPy](https://scipy.org/) - SciPy is a math function library that uses NumPy. This library provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics, and many other classes of problems.
+  - [Pyomo](https://pyomo.readthedocs.io/en/stable/solving_pyomo_models.html) - Python Optimization Modeling Objects.
+  - [CVXOPT](https://cvxopt.org/) - A free Python software package for convex optimization.
   - [Regularization Tools](https://www.imm.dtu.dk/~pcha/Regutools/) - Or find an old copy [here](https://github.com/hadiTab/regu).
 
 ## learning
