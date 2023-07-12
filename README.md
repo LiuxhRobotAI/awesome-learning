@@ -36,7 +36,7 @@ A list of topics of interest.
   - [Awesome robotics libraries](https://github.com/jslee02/awesome-robotics-libraries)
 - [Localization]() 
   - [SLAM](https://github.com/changh95/visual-slam-roadmap) - Roadmap for SLAM beginner.
-    - [SLAM arts] (https://github.com/autodriving-heart/Awesome-SLAM) - A summary of SLAM, including basic theories and practical examples and visual, lidar SLAM.
+    - [SLAM arts](https://github.com/autodriving-heart/Awesome-SLAM) - A summary of SLAM, including basic theories and practical examples and visual, lidar SLAM.
     - [UWB localization](https://github.com/cliansang/uwb-tracking-ros) - or [this](https://github.com/TIERS/ros-dwm1001-uwb-localization)
 - [Control]()
   - [Mothin planning](https://github.com/zhm-real/MotionPlanning/blob/master/README.md)
