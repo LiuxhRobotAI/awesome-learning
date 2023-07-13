@@ -20,10 +20,10 @@ A list of topics of interest.
   - [Robotics coursework](https://github.com/mithi/robotics-coursework)
 - [Implementation and application]()
   - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Most recommended for understanding and getting starting algorithms.
-  - [Eigen](https://gitlab.com/libeigen/eigen/-/releases) - Or [this site](http://eigen.tuxfamily.org/)
+  - [Eigen](https://gitlab.com/libeigen/eigen/-/releases) or [this site](http://eigen.tuxfamily.org/) - A C++ tool for matrix operation.
   - [G2O](https://github.com/RainerKuemmerle/g2o) - General graph optimization.
   - [Ceres](http://ceres-solver.org/) - An open-source C++ library for modeling and solving large, complicated optimization problems.
-  - [Sophus](https://github.com/strasdat/Sophus) - A C++ implementation of Lie groups commonly used for 2d and 3d geometric problems.
+  - [Sophus](https://github.com/strasdat/Sophus) - A C++ implementation of Lie groups basic on Eigen, commonly used for 2d and 3d geometric problems.
   - [GTSAM](https://gtsam.org/) - A C++ library that implements sensor fusion for robotics and computer vision applications, including SLAM, VO, and SFM (Structure from Motion). It uses factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices to optimize for the most probable configuration or an optimal plan.
   - [Mosek](https://www.mosek.com/) - Powerful solver to optimization problems. And [Yalmip](https://yalmip.github.io/) - A tool for optimization problems. [Here](https://yalmip.github.io/solver/mosek/) is how it works with Mosek.
   - [SciPy](https://scipy.org/) - SciPy is a math function library that uses NumPy. This library provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics, and many other classes of problems.
@@ -31,7 +31,7 @@ A list of topics of interest.
   - [CVXOPT](https://cvxopt.org/) - A free Python software package for convex optimization.
   - [Regularization Tools](https://www.imm.dtu.dk/~pcha/Regutools/) - Or find an old copy [here](https://github.com/hadiTab/regu).
 
-## learning
+## Learning
 
 - [AI](https://github.com/owainlewis/awesome-artificial-intelligence)
   - [Tutorial for CNN](https://github.com/vzhou842/cnn-from-scratch) - Most recommended, the easiest tutorial for CNN, or [Neural network from scratch](https://github.com/vzhou842/neural-network-from-scratch).
@@ -51,7 +51,8 @@ A list of topics of interest.
 - [Localization]() 
   - [SLAM](https://github.com/changh95/visual-slam-roadmap) - Roadmap for SLAM beginner.
     - [SLAM arts](https://github.com/autodriving-heart/Awesome-SLAM) - A summary of SLAM, including basic theories and practical examples and visual, lidar SLAM.
-    - [UWB localization](https://github.com/cliansang/uwb-tracking-ros) - Or [this](https://github.com/TIERS/ros-dwm1001-uwb-localization)
+    - [SLAM using Python](https://atsushisakai.github.io/PythonRobotics/) - Many topics on robotics including SLAM.  
+  - [UWB localization](https://github.com/cliansang/uwb-tracking-ros) - Or [this](https://github.com/TIERS/ros-dwm1001-uwb-localization)
 - [Control]()
   - [Mothin planning](https://github.com/zhm-real/MotionPlanning/blob/master/README.md)
   - [Path following]()
@@ -83,7 +84,8 @@ A list of topics of interest.
   
 ## Tools
 - [Jackal Robot simulation platform](http://docs.ros.org/en/latest-available/api/jackal_tutorials/html/simulation.html)
-
+- [OpenCV]
+- [BoW]
 ## Websites
 - [PapersWithCode](https://paperswithcode.com/sota) - Code !!
 - [PaperDigest](https://www.paperdigest.org/review/)
