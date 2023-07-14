@@ -21,8 +21,8 @@ A list of topics of interest.
 - [Implementation and application]()
   - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Most recommended for understanding and getting starting algorithms.
   - [Eigen](https://gitlab.com/libeigen/eigen/-/releases) or [this site](http://eigen.tuxfamily.org/) - A C++ tool for matrix operation.
-  - [G2O](https://github.com/RainerKuemmerle/g2o) - General graph optimization.
   - [Ceres](http://ceres-solver.org/) - An open-source C++ library for modeling and solving large, complicated optimization problems.
+  - [G2O](https://github.com/RainerKuemmerle/g2o) - An open-source C++ library for general graph optimization.
   - [Sophus](https://github.com/strasdat/Sophus) - A C++ implementation of Lie groups basic on Eigen, commonly used for 2d and 3d geometric problems.
   - [GTSAM](https://gtsam.org/) - A C++ library that implements sensor fusion for robotics and computer vision applications, including SLAM, VO, and SFM (Structure from Motion). It uses factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices to optimize for the most probable configuration or an optimal plan.
   - [Mosek](https://www.mosek.com/) - Powerful solver to optimization problems. And [Yalmip](https://yalmip.github.io/) - A tool for optimization problems. [Here](https://yalmip.github.io/solver/mosek/) is how it works with Mosek.
@@ -84,8 +84,10 @@ A list of topics of interest.
   
 ## Tools
 - [Jackal Robot simulation platform](http://docs.ros.org/en/latest-available/api/jackal_tutorials/html/simulation.html)
-- [OpenCV]
-- [BoW]
+- [OpenCV](https://opencv.org/)
+- [evo](https://github.com/MichaelGrupp/evo) - A tool for evaluating and comparing the trajectory output of odometry and SLAM algorithms.
+- [Pangolin](https://github.com/stevenlovegrove/Pangolin) - A 3D visualization tool that includes a set of lightweight and portable utility libraries for prototyping 3D, numeric or video-based programs and algorithms used quite widely in the field of Computer Vision.
+- [BoW] - The bag-of-words (BOW) model.
 ## Websites
 - [PapersWithCode](https://paperswithcode.com/sota) - Code !!
 - [PaperDigest](https://www.paperdigest.org/review/)
