@@ -27,6 +27,7 @@ A list of topics of interest.
   - [GTSAM](https://gtsam.org/) - A C++ library that implements sensor fusion for robotics and computer vision applications, including SLAM, VO, and SFM (Structure from Motion). It uses factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices to optimize for the most probable configuration or an optimal plan.
   - [Mosek](https://www.mosek.com/) - Powerful solver to optimization problems. And [Yalmip](https://yalmip.github.io/) - A tool for optimization problems. [Here](https://yalmip.github.io/solver/mosek/) is how it works with Mosek.
   - [SciPy](https://scipy.org/) - SciPy is a math function library that uses NumPy. This library provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics, and many other classes of problems.
+  - [cvxpy](https://github.com/cvxpy/cvxpy) - A Python-embedded modeling language for convex optimization problems. It allows you to express your problem in a natural way that follows the math, rather than in the restrictive standard form required by solvers. `Most recommended as Moseck and Yalmip! for Python users`
   - [Pyomo](https://pyomo.readthedocs.io/en/stable/solving_pyomo_models.html) - Python Optimization Modeling Objects.
   - [CVXOPT](https://cvxopt.org/) - A free Python software package for convex optimization.
   - [Regularization Tools](https://www.imm.dtu.dk/~pcha/Regutools/) - Or find an old copy [here](https://github.com/hadiTab/regu).
