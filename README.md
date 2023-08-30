@@ -25,6 +25,7 @@ A list of topics of interest. This list includes some very useful and recommende
   - [G2O](https://github.com/RainerKuemmerle/g2o) - An open-source C++ library for general graph optimization.
   - [Sophus](https://github.com/strasdat/Sophus) - A C++ implementation of Lie groups basic on Eigen, commonly used for 2d and 3d geometric problems.
   - [GTSAM](https://gtsam.org/) - A C++ library that implements sensor fusion for robotics and computer vision applications, including SLAM, VO, and SFM (Structure from Motion). It uses factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices to optimize for the most probable configuration or an optimal plan.
+  - [miniSAM](https://github.com/dongjing3309/minisam) - An open-source C++/Python framework for solving factor graph-based least squares problems inspired by GTSAM but more lightweight.
   - [Mosek](https://www.mosek.com/) - Powerful solver to optimization problems. And [Yalmip](https://yalmip.github.io/) - A tool for optimization problems. [Here](https://yalmip.github.io/solver/mosek/) is how it works with Mosek.
   - [Suitesparse](https://people.engr.tamu.edu/davis/suitesparse.html) - A sparse Matrix software suite.
   - [SciPy](https://scipy.org/) - SciPy is a math function library that uses NumPy. This library provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics, and many other classes of problems.
@@ -90,7 +91,7 @@ A list of topics of interest. This list includes some very useful and recommende
 - [evo](https://github.com/MichaelGrupp/evo) - A tool for evaluating and comparing the trajectory output of odometry and SLAM algorithms.
 - [Pangolin](https://github.com/stevenlovegrove/Pangolin) - A 3D visualization tool that includes a set of lightweight and portable utility libraries for prototyping 3D, numeric or video-based programs and algorithms used quite widely in the field of Computer Vision.
 - [BoW] - The bag-of-words (BOW) model.
-- [COLMAP](https://colmap.github.io/) - A a general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface which is very usefull for SLAM.
+- [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface which is very useful for SLAM.
 
 ## Websites
 - [PapersWithCode](https://paperswithcode.com/sota) - Code !!
