@@ -1,5 +1,5 @@
 # awesome-learning
-A list of topics of interest.
+A list of topics of interest. This list includes some very useful and recommended open books, platforms, tools and websites for AI technologies, computer vision, simutanues localization and mapping(SLAM), control technologies of robotics and some very usefull tutorials for robot technologies.
 
 ## Contents
 
@@ -15,19 +15,20 @@ A list of topics of interest.
 
 - [Basic applied math]()
   - [AI book library](https://www.deeplearningbook.org/) - The most recommended book for machine learning. 
-    - [Dive into deep learning](https://zh.d2l.ai/) - Useful tool book for deep learning and implementation.
+    - [Dive into deep learning](https://zh.d2l.ai/) - Useful tool book for deep learning and implementation. There is a tutorial course with video for this book.
     - [Machine learning book](https://github.com/aburkov/theMLbook) - The hundred-page machine learning book with code.
   - [Robotics coursework](https://github.com/mithi/robotics-coursework)
 - [Implementation and application]()
   - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Most recommended for understanding and getting starting algorithms.
   - [Eigen](https://gitlab.com/libeigen/eigen/-/releases) or [this site](http://eigen.tuxfamily.org/) - A C++ tool for matrix operation.
-  - [Ceres](http://ceres-solver.org/) - An open-source C++ library for modeling and solving large, complicated optimization problems.
+  - [Ceres](http://ceres-solver.org/) - An open-source C++ library for modeling and solving large, complicated optimization problems. There are binding tools for Python to use Ceres. It is [Pyceres](https://github.com/cvg/pyceres) which is based on [ceres_python_bindings](https://github.com/Edwinem/ceres_python_bindings).
   - [G2O](https://github.com/RainerKuemmerle/g2o) - An open-source C++ library for general graph optimization.
   - [Sophus](https://github.com/strasdat/Sophus) - A C++ implementation of Lie groups basic on Eigen, commonly used for 2d and 3d geometric problems.
   - [GTSAM](https://gtsam.org/) - A C++ library that implements sensor fusion for robotics and computer vision applications, including SLAM, VO, and SFM (Structure from Motion). It uses factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices to optimize for the most probable configuration or an optimal plan.
   - [Mosek](https://www.mosek.com/) - Powerful solver to optimization problems. And [Yalmip](https://yalmip.github.io/) - A tool for optimization problems. [Here](https://yalmip.github.io/solver/mosek/) is how it works with Mosek.
+  - [Suitesparse](https://people.engr.tamu.edu/davis/suitesparse.html) - A sparse Matrix software suite.
   - [SciPy](https://scipy.org/) - SciPy is a math function library that uses NumPy. This library provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics, and many other classes of problems.
-  - [cvxpy](https://github.com/cvxpy/cvxpy) - A Python-embedded modeling language for convex optimization problems. It allows you to express your problem in a natural way that follows the math, rather than in the restrictive standard form required by solvers. `Most recommended as Mosek and Yalmip! for Python users`
+  - [cvxpy](https://github.com/cvxpy/cvxpy) - A Python-embedded modeling language for convex optimization problems. It allows you to express your problem in a natural way that follows the math, rather than in the restrictive standard form required by solvers. `Most recommended as Mosek and Yalmip! for Python users`.
   - [Pyomo](https://pyomo.readthedocs.io/en/stable/solving_pyomo_models.html) - Python Optimization Modeling Objects.
   - [CVXOPT](https://cvxopt.org/) - A free Python software package for convex optimization.
   - [Regularization Tools](https://www.imm.dtu.dk/~pcha/Regutools/) - Or find an old copy [here](https://github.com/hadiTab/regu).
@@ -38,9 +39,9 @@ A list of topics of interest.
   - [Tutorial for CNN](https://github.com/vzhou842/cnn-from-scratch) - Most recommended, the easiest tutorial for CNN, or [Neural network from scratch](https://github.com/vzhou842/neural-network-from-scratch).
   - [Understanding backpropagation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
   - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - From Microsoft.
-  - [Machine learning beginner](https://github.com/fengdu78/machine_learning_beginner) - In Chinese.
-  - [Awesome deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-  - [Awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning)
+  - [Machine learning beginner](https://github.com/fengdu78/machine_learning_beginner) - A road map and tutorial for machine learing beginner. In Chinese.
+  - [Awesome deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A list of resource for deep learning (Updating).
+  - [Awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning) - A list of resource for machine learning (Updating).
 - [Excellent demo]()
   - [ChatGPT](https://openai.com/blog/chatgpt)
   - [ChatGPT desktop](https://github.com/lencx/ChatGPT)
@@ -74,7 +75,7 @@ A list of topics of interest.
   - [MATLAB](https://learnxinyminutes.com/docs/matlab/)
   - [Objective-C](https://learnxinyminutes.com/docs/c/)
 
-## Platform
+## Platforms
 - [Linux](https://github.com/inputsh/awesome-linux#readme)
   - [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
@@ -89,6 +90,8 @@ A list of topics of interest.
 - [evo](https://github.com/MichaelGrupp/evo) - A tool for evaluating and comparing the trajectory output of odometry and SLAM algorithms.
 - [Pangolin](https://github.com/stevenlovegrove/Pangolin) - A 3D visualization tool that includes a set of lightweight and portable utility libraries for prototyping 3D, numeric or video-based programs and algorithms used quite widely in the field of Computer Vision.
 - [BoW] - The bag-of-words (BOW) model.
+- [COLMAP](https://colmap.github.io/) - A a general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface which is very usefull for SLAM.
+
 ## Websites
 - [PapersWithCode](https://paperswithcode.com/sota) - Code !!
 - [PaperDigest](https://www.paperdigest.org/review/)
