@@ -1,5 +1,5 @@
 # awesome-learning
-A list of topics of interest. This list includes some very useful and recommended open books, platforms, tools and websites for AI technologies, computer vision, simutanues localization and mapping(SLAM), control technologies of robotics and some very usefull tutorials for robot technologies.
+A list of topics of interest. This list includes some very useful and recommended open books, platforms, tools and websites for AI technologies, computer vision, simultaneous localization and mapping(SLAM), control technologies of robotics and some very useful tutorials for robot technologies.
 
 ## Contents
 
@@ -25,7 +25,7 @@ A list of topics of interest. This list includes some very useful and recommende
   - [G2O](https://github.com/RainerKuemmerle/g2o) - An open-source C++ library for general graph optimization.
   - [Sophus](https://github.com/strasdat/Sophus) - A C++ implementation of Lie groups basic on Eigen, commonly used for 2d and 3d geometric problems.
   - [GTSAM](https://gtsam.org/) - A C++ library that implements sensor fusion for robotics and computer vision applications, including SLAM, VO, and SFM (Structure from Motion). It uses factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices to optimize for the most probable configuration or an optimal plan.
-  - [miniSAM](https://github.com/dongjing3309/minisam) - An open-source C++/Python framework for solving factor graph-based least squares problems inspired by GTSAM but more lightweight.
+  - [miniSAM](https://github.com/dongjing3309/minisam) - An open-source C++/Python framework for solving factor graph-based least squares problems inspired by GTSAM but more lightweight. Some tutorials on factor graph-based optimization problems should be very useful. 
   - [Mosek](https://www.mosek.com/) - Powerful solver to optimization problems. And [Yalmip](https://yalmip.github.io/) - A tool for optimization problems. [Here](https://yalmip.github.io/solver/mosek/) is how it works with Mosek.
   - [Suitesparse](https://people.engr.tamu.edu/davis/suitesparse.html) - A sparse Matrix software suite.
   - [SciPy](https://scipy.org/) - SciPy is a math function library that uses NumPy. This library provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics, and many other classes of problems.
@@ -80,7 +80,7 @@ A list of topics of interest. This list includes some very useful and recommende
 - [Linux](https://github.com/inputsh/awesome-linux#readme)
   - [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
-  - [WSL](https://github.com/sirredbeard/Awesome-WSL)
+  - [WSL](https://github.com/sirredbeard/Awesome-WSL) Here is a collection of Windows Subsystem for Linux (WSL) information, distributions, and tools.
 - [ROS](https://docs.ros.org/)
   - [ROS1](http://wiki.ros.org/ROS/Installation)
   - [ROS2](https://docs.ros.org/)
