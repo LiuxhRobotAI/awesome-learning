@@ -47,8 +47,11 @@ A list of topics of interest. This list includes some very useful and recommende
   - [ChatGPT](https://openai.com/blog/chatgpt)
   - [ChatGPT desktop](https://github.com/lencx/ChatGPT)
   - [VQA](https://github.com/vzhou842/easy-VQA-keras) - Visual question answering, a simple example to build your chatbot.
+- [Great projects]()
+  - [keras](https://keras.io/guides/making_new_layers_and_models_via_subclassing) - A tool for learning implementaion and [some documents](https://wizardforcel.gitbooks.io/keras-cn/content/docs/layers/writting_layer.html) for beginners.
 
 ## Robotics 
+
 - [Awesome robotics](https://github.com/Kiloreux/awesome-robotics#readme)
   - [Awesome robotics libraries](https://github.com/jslee02/awesome-robotics-libraries)
 - [Localization]() 
@@ -66,8 +69,8 @@ A list of topics of interest. This list includes some very useful and recommende
 - [Journals and conferences]() - Collection of papers
   - [Journals]()
   - [Conferences]()
-    - [CVPR](https://github.com/extreme-assistant/CVPR2023-Paper-Code-Interpretation)
- 
+    - [CVPR](https://github.com/extreme-assistant/CVPR2023-Paper-Code-Interpretation).
+
 ## Programming
 
 - [Language](https://learnxinyminutes.com/) - Learn X in Y minutes
@@ -77,6 +80,7 @@ A list of topics of interest. This list includes some very useful and recommende
   - [Objective-C](https://learnxinyminutes.com/docs/c/)
 
 ## Platforms
+
 - [Linux](https://github.com/inputsh/awesome-linux#readme)
   - [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
@@ -86,6 +90,7 @@ A list of topics of interest. This list includes some very useful and recommende
   - [ROS2](https://docs.ros.org/)
   
 ## Tools
+
 - [Jackal Robot simulation platform](http://docs.ros.org/en/latest-available/api/jackal_tutorials/html/simulation.html)
 - [OpenCV](https://opencv.org/)
 - [evo](https://github.com/MichaelGrupp/evo) - A tool for evaluating and comparing the trajectory output of odometry and SLAM algorithms.
@@ -94,5 +99,6 @@ A list of topics of interest. This list includes some very useful and recommende
 - [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface which is very useful for SLAM.
 
 ## Websites
+
 - [PapersWithCode](https://paperswithcode.com/sota) - Code !!
 - [PaperDigest](https://www.paperdigest.org/review/)
