@@ -43,6 +43,9 @@ A list of topics of interest. This list includes some very useful and recommende
   - [Machine learning beginner](https://github.com/fengdu78/machine_learning_beginner) - A road map and tutorial for machine learing beginner. In Chinese.
   - [Awesome deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A list of resource for deep learning (Updating).
   - [Awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning) - A list of resource for machine learning (Updating).
+- [XAI]() - Explainable or interpretable AI
+  - [LIME](https://github.com/marcotcr/lime) - A local interpretable model-agnostic explanations (LIME).
+  - [SHAP](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [Excellent demo]()
   - [ChatGPT](https://openai.com/blog/chatgpt)
   - [ChatGPT desktop](https://github.com/lencx/ChatGPT)
