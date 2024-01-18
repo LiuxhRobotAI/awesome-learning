@@ -6,4 +6,4 @@ sort: 1
 
 <!-- {% include list.liquid %} -->
 
-- [First blogs]()
+- [First blogs](./1.introduction.md)
