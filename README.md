@@ -102,7 +102,7 @@ A list of topics of interest. This list includes some very useful and recommende
 - [Pangolin](https://github.com/stevenlovegrove/Pangolin) - A 3D visualization tool that includes a set of lightweight and portable utility libraries for prototyping 3D, numeric or video-based programs and algorithms used quite widely in the field of Computer Vision.
 - [BoW] - The bag-of-words (BOW) model.
 - [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface which is very useful for SLAM.
-- [Optimization tool in Python](), There are many optimization tool used for SLAM, machine leraning and so on: [g2opy](https://github.com/uoip/g2opy) is only for SLAM and it is a python binding of graph optimization C++ frameworkb `g2o`; The recently emerged and maintained [pypose](https://github.com/pypose/pypose) (by Wang Chen) and [theseus](https://github.com/facebookresearch/theseus) from `Meta AI` may be the most remarkable ones.  
+- [Optimization tool in Python](), There are many optimization tool used for SLAM, machine leraning and so on: [g2opy](https://github.com/uoip/g2opy) is only for SLAM and it is a python binding of graph optimization C++ frameworkb `g2o`; The recently emerged and maintained [pypose](https://github.com/pypose/pypose) (by Wang Chen) and [cvxpylayers](https://github.com/cvxgrp/cvxpylayers), [theseus](https://github.com/facebookresearch/theseus) from `Meta AI` may be the most remarkable ones.  
 
 ## Websites
 
