@@ -36,7 +36,8 @@ A list of topics of interest. This list includes some very useful and recommende
   - [CVXOPT](https://cvxopt.org/) - A free Python software package for convex optimization.
   - [Regularization Tools](https://www.imm.dtu.dk/~pcha/Regutools/) - Or find an old copy [here](https://github.com/hadiTab/regu).
   - [Optimization tool in Python](), There are many optimization tool used for SLAM, machine leraning and so on: [g2opy](https://github.com/uoip/g2opy) is only for SLAM and it is a python binding of graph optimization C++ frameworkb `g2o`; The recently emerged and maintained [pypose](https://github.com/pypose/pypose) (by Wang Chen) and [cvxpylayers](https://github.com/cvxgrp/cvxpylayers), [theseus](https://github.com/facebookresearch/theseus) from `Meta AI` may be the most remarkable ones.  
-  - [SymPy](https://github.com/sympy/sympy) - a Python library for symbolic mathematics, a computer algebra system like Maple and Mathematica that can be used to symbolically differentiate the objective function and generate the C++ to evaluate them.
+  - [SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics, a computer algebra system like `Maple` and `Mathematica` that can be used to symbolically differentiate the objective function and generate the C++ to evaluate them.
+  - [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/) - A document based interface for the computer algebra system `Maxima`. wxMaxima provides menus and dialogs for many common maxima commands, autocompletion, inline plots and simple animations. The tensor calculation of `Ralativity` is one of the main usages of wxMaxima. 
 
 ## Learning
 
