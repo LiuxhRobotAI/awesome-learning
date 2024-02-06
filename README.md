@@ -7,7 +7,7 @@ A list of topics of interest. This list includes some very useful and recommende
 - [Learning](#Learning)
 - [Robotics](#Robotics)
 - [Programming](#Programming)
-- [Platform](#Platform)
+- [Platform](#Platforms)
 - [Tools](#Tools)
 - [Websites](#Websites)
 
