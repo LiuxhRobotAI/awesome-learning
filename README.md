@@ -55,8 +55,14 @@ A list of topics of interest. This list includes some very useful and recommende
   - [ChatGPT](https://openai.com/blog/chatgpt)
   - [ChatGPT desktop](https://github.com/lencx/ChatGPT)
   - [VQA](https://github.com/vzhou842/easy-VQA-keras) - Visual question answering, a simple example to build your chatbot.
-- [Great projects]()
+- [AI frameworks]()
+  - [Pytorch tutorials](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)- Build a neural network from scratch with automatic differentiation.
+  - [TensorFlow tutorials](https://www.tensorflow.org/guide/eager?hl=zh-cn)
+  - [Hugging Face](https://huggingface.co/docs/transformers/zh/quicktour) - Transformers.
   - [keras](https://keras.io/guides/making_new_layers_and_models_via_subclassing) - A tool for learning implementaion and [some documents](https://wizardforcel.gitbooks.io/keras-cn/content/docs/layers/writting_layer.html) for beginners.
+  - [Scikit-Learn](https://scikit-learn.org/stable/getting_started.html)
+  - [MXNet](https://mxnet.apache.org/versions/1.9.1/api/python/docs/tutorials/getting-started/crash-course/2-nn.html)
+  - [Caffe](https://caffe.berkeleyvision.org/tutorial/net_layer_blob.html)
 
 ## Robotics 
 
