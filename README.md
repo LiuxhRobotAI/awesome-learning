@@ -112,7 +112,7 @@ A list of topics of interest. This list includes some very useful and recommende
 - [Pangolin](https://github.com/stevenlovegrove/Pangolin) - A 3D visualization tool that includes a set of lightweight and portable utility libraries for prototyping 3D, numeric or video-based programs and algorithms used quite widely in the field of Computer Vision.
 - [BoW] - The bag-of-words (BOW) model.
 - [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface which is very useful for SLAM.
-
+- [YOLO](https://pjreddie.com/darknet/yolo/) - A real-time object detection system which is very useful for automatical driving and SLAM. Now it updates as YOLOv3, and has a YOLOv3-tiny.
 ## Websites
 
 - [PapersWithCode](https://paperswithcode.com/sota) - Code !!
