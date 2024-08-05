@@ -1,6 +1,6 @@
 # awesome-learning
 A list of topics of interest. This list includes some very useful and recommended open books, platforms, tools and websites for AI technologies, computer vision, simultaneous localization and mapping(SLAM), control technologies of robotics and some very useful tutorials for robot technologies.
-### I will update context related tools and everything in `Contents` in branch `main`, and update blogs in branch `gh-pages`.
+### I will update context related tools and everything in `Contents` in branch `main`, and update blogs in branch `gh-pages` in this [site](https://l53317.github.io/awesome-learning/).
 
 ## Contents
 
