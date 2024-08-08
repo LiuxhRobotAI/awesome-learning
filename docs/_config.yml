@@ -8,6 +8,7 @@ readme_index:
   with_frontmatter: true
 
 markdown: kramdown # For mathematical formula
+mathjax: true
 kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
