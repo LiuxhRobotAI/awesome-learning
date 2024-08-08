@@ -7,6 +7,10 @@ remote_theme: rundocs/jekyll-rtd-theme
 readme_index:
   with_frontmatter: true
 
+markdown: kramdown # For mathetical formula
+kramdown:
+    input: GFM
+
 exclude:
   - Makefile
   - CNAME
