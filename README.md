@@ -113,6 +113,8 @@ A list of topics of interest. This list includes some very useful and recommende
 - [BoW] - The bag-of-words (BOW) model.
 - [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface which is very useful for SLAM.
 - [YOLO](https://pjreddie.com/darknet/yolo/) - A real-time object detection system which is very useful for automatical driving and SLAM. Now it updates as YOLOv10, and has a YOLOv4-tiny.
+- [MatrixCalculus](https://www.matrixcalculus.org/) - An online tool that computes vector and matrix derivatives (matrix calculus).
+  
 ## Websites
 
 - [PapersWithCode](https://paperswithcode.com/sota) - Code !!
