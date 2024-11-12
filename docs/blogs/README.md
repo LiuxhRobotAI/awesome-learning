@@ -11,3 +11,4 @@ sort: 1
 - [Build ROS package with non-official messages](./3.Building_ROS_packages_with_new_created_message.md)
 - [How to select free software licenses](./4.Free_software_licenses.md)
 - [Marginalization in optimization problems](./5.Marginalization_in_optimization_problems.md)
+- [Four-wheel differential model for mobile robots](./6.Four-wheel_differential_model_for_mobile_robots.md)
