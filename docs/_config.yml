@@ -5,6 +5,8 @@ description: Extends the continuous integration documentation capabilities of Gi
 # remote_theme：rundocs/jekyll-rtd-theme
 # remote_theme: clearpathrobotics/jekyll-rtd-theme # Or
 remote_theme: https://github.com/clearpathrobotics/jekyll-rtd-theme
+# remote_theme: https://github.com/tomjoht/documentation-theme-jekyll
+# remote_theme: https://github.com/just-the-docs/just-the-docs # Check the tutorial on the website. Or find more themes on jekyllthemes.io.
 
 readme_index:
   with_frontmatter: true
