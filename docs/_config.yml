@@ -2,8 +2,9 @@ title: awesome-learning
 lang: en
 description: Extends the continuous integration documentation capabilities of GitHub pages for everyone!
 
-remote_theme: clearpathrobotics/jekyll-rtd-theme
 # remote_theme：rundocs/jekyll-rtd-theme
+# remote_theme: clearpathrobotics/jekyll-rtd-theme # Or
+remote_theme: https://github.com/clearpathrobotics/jekyll-rtd-theme
 
 readme_index:
   with_frontmatter: true
