@@ -106,8 +106,9 @@ A list of topics of interest. This list includes some very useful and recommende
   
 ## Tools
 
-- [Jackal Robot simulation platform](http://docs.ros.org/en/latest-available/api/jackal_tutorials/html/simulation.html)
-- [OpenCV](https://opencv.org/)
+- [webots](https://github.com/cyberbotics/webots) - A robot similator that provides a complete development environment to model, program and simulate robots, vehicles and mechanical system. Robot may be programmed in C, C++, Python, Java, MATLAB or ROS with a simple API covering all the basic robotics needs.
+- [Jackal Robot simulation platform](http://docs.ros.org/en/latest-available/api/jackal_tutorials/html/simulation.html) - A simulator for mobile robots.
+- [OpenCV](https://opencv.org/) - The world's biggest computer vision library.
 - [evo](https://github.com/MichaelGrupp/evo) - A tool for evaluating and comparing the trajectory output of odometry and SLAM algorithms.
 - [Pangolin](https://github.com/stevenlovegrove/Pangolin) - A 3D visualization tool that includes a set of lightweight and portable utility libraries for prototyping 3D, numeric or video-based programs and algorithms used quite widely in the field of Computer Vision.
 - [BoW] - The bag-of-words (BOW) model.
