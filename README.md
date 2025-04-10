@@ -49,6 +49,8 @@ A list of topics of interest. This list includes some very useful and recommende
   - [Machine learning beginner](https://github.com/fengdu78/machine_learning_beginner) - A road map and tutorial for machine learing beginner. In Chinese.
   - [Awesome deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A list of resource for deep learning (Updating).
   - [Awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning) - A list of resource for machine learning (Updating).
+  - [PINNs from scratch](https://github.com/LiuxhRobotAI/PINNs-from-scratch) - An simple example for physics-informed neural networks (PINNs), using the damped harmonic oscillator(mass spring damper model) as a case study. Some more example and analysis can be found [here](https://github.com/benmoseley/FBPINNs).
+  - [Augment physics-based models]() - An example of augment physics-based models (APBM) can be found [here](https://github.com/neu-spiral/APBM-TAES2023).
 - [XAI]() - Explainable or interpretable AI
   - [LIME](https://github.com/marcotcr/lime) - A local interpretable model-agnostic explanations (LIME).
   - [SHAP](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
