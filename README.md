@@ -15,15 +15,15 @@ A list of topics of interest. This list includes some very useful and recommende
 
 - [Basic applied math]()
   - [AI book library](https://www.deeplearningbook.org/) - The most recommended book for machine learning. 
-    - [Dive into deep learning](https://zh.d2l.ai/) - Useful tool book for deep learning and implementation. There is a tutorial course with video for this book.
+    - [Dive into deep learning](https://zh.d2l.ai/) - A useful tool book for deep learning and implementation. There is a tutorial course with video for this book.
     - [Machine learning book](https://github.com/aburkov/theMLbook) - The hundred-page machine learning book with code.
   - [Robotics coursework](https://github.com/mithi/robotics-coursework)
 - [Implementation and application]()
-  - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Most recommended for understanding and getting starting algorithms.
+  - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Most recommended for understanding and getting started with algorithms.
   - [Eigen](https://gitlab.com/libeigen/eigen/-/releases) or [this site](http://eigen.tuxfamily.org/) - A C++ tool for matrix operation.
   - [Ceres](http://ceres-solver.org/) - An open-source C++ library for modeling and solving large, complicated optimization problems. There are binding tools for Python to use Ceres. It is [Pyceres](https://github.com/cvg/pyceres) which is based on [ceres_python_bindings](https://github.com/Edwinem/ceres_python_bindings).
   - [G2O](https://github.com/RainerKuemmerle/g2o) - An open-source C++ library for general graph optimization.
-  - [Sophus](https://github.com/strasdat/Sophus) - A C++ implementation of Lie groups basic on Eigen, commonly used for 2d and 3d geometric problems.
+  - [Sophus](https://github.com/strasdat/Sophus) - A C++ implementation of Lie groups based on Eigen, commonly used for 2d and 3d geometric problems.
   - [GTSAM](https://gtsam.org/) - A C++ library that implements sensor fusion for robotics and computer vision applications, including SLAM, VO, and SFM (Structure from Motion). It uses factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices to optimize for the most probable configuration or an optimal plan.
   - [miniSAM](https://github.com/dongjing3309/minisam) - An open-source C++/Python framework for solving factor graph-based least squares problems inspired by GTSAM but more lightweight. Some tutorials on factor graph-based optimization problems should be very useful. 
   - [Mosek](https://www.mosek.com/) - Powerful solver to optimization problems. And [Yalmip](https://yalmip.github.io/) - A tool for optimization problems. [Here](https://yalmip.github.io/solver/mosek/) is how it works with Mosek.
@@ -46,10 +46,10 @@ A list of topics of interest. This list includes some very useful and recommende
   - [Tutorial for CNN](https://github.com/vzhou842/cnn-from-scratch) - Most recommended, the easiest tutorial for CNN, or [Neural network from scratch](https://github.com/vzhou842/neural-network-from-scratch).
   - [Understanding backpropagation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
   - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - From Microsoft.
-  - [Machine learning beginner](https://github.com/fengdu78/machine_learning_beginner) - A road map and tutorial for machine learing beginner. In Chinese.
-  - [Awesome deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A list of resource for deep learning (Updating).
-  - [Awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning) - A list of resource for machine learning (Updating).
-  - [PINNs from scratch](https://github.com/LiuxhRobotAI/PINNs-from-scratch) - An simple example for physics-informed neural networks (PINNs), using the damped harmonic oscillator(mass spring damper model) as a case study. Some more example and analysis can be found [here](https://github.com/benmoseley/FBPINNs).
+  - [Machine learning beginner](https://github.com/fengdu78/machine_learning_beginner) - A road map and tutorial for machine learning beginners. In Chinese.
+  - [Awesome deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A list of resources for deep learning (Updating).
+  - [Awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning) - A list of resources for machine learning (Updating).
+  - [PINNs from scratch](https://github.com/LiuxhRobotAI/PINNs-from-scratch) - A simple example for physics-informed neural networks (PINNs), using the damped harmonic oscillator(mass spring damper model) as a case study. Some more examples and analysis can be found [here](https://github.com/benmoseley/FBPINNs).
   - [Augment physics-based models]() - An example of augment physics-based models (APBM) can be found [here](https://github.com/neu-spiral/APBM-TAES2023).
 - [XAI]() - Explainable or interpretable AI
   - [LIME](https://github.com/marcotcr/lime) - A local interpretable model-agnostic explanations (LIME).
@@ -108,18 +108,19 @@ A list of topics of interest. This list includes some very useful and recommende
   
 ## Tools
 
-- [webots](https://github.com/cyberbotics/webots) - A robot similator that provides a complete development environment to model, program and simulate robots, vehicles and mechanical system. Robot may be programmed in C, C++, Python, Java, MATLAB or ROS with a simple API covering all the basic robotics needs.
+- [webots](https://github.com/cyberbotics/webots) - A robot simulator that provides a complete development environment to model, program and simulate robots, vehicles and mechanical systems. Robot may be programmed in C, C++, Python, Java, MATLAB, or ROS with a simple API covering all the basic robotics needs.
 - [Jackal Robot simulation platform](http://docs.ros.org/en/latest-available/api/jackal_tutorials/html/simulation.html) - A simulator for mobile robots.
 - [OpenCV](https://opencv.org/) - The world's biggest computer vision library.
 - [evo](https://github.com/MichaelGrupp/evo) - A tool for evaluating and comparing the trajectory output of odometry and SLAM algorithms.
-- [Pangolin](https://github.com/stevenlovegrove/Pangolin) - A 3D visualization tool that includes a set of lightweight and portable utility libraries for prototyping 3D, numeric or video-based programs and algorithms used quite widely in the field of Computer Vision.
+- [Pangolin](https://github.com/stevenlovegrove/Pangolin) - A 3D visualization tool that includes a set of lightweight and portable utility libraries for prototyping 3D, numeric, or video-based programs and algorithms used quite widely in the field of Computer Vision.
 - [BoW] - The bag-of-words (BOW) model.
-- [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface which is very useful for SLAM.
-- [YOLO](https://pjreddie.com/darknet/yolo/) - A real-time object detection system which is very useful for automatical driving and SLAM. Now it updates as YOLOv10, and has a YOLOv4-tiny.
+- [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface, which is very useful for SLAM.
+- [YOLO](https://pjreddie.com/darknet/yolo/) - A real-time object detection system, which is very useful for automatic driving and SLAM. Now it updates as YOLOv10, and has a YOLOv4-tiny.
 - [MatrixCalculus](https://www.matrixcalculus.org/) - An online tool that computes vector and matrix derivatives (matrix calculus).
-  
+- Math Video Production Tools: Microsoft [Clipchamp](https://clipchamp.com/en/) is easy to use. Some other useful examples: Graphing Software: [GeoGebra](https://www.geogebra.org/), Recording Software: [Open Broadcaster Software, OBS](https://obsproject.com/), Animation Production: [ScreenToGif](https://www.screentogif.com/), Video Source: Convert Markdown text to HTML, using Edge's built-in voice-to-speech feature. 
+
 ## Websites
 
 - [PapersWithCode](https://paperswithcode.com/sota) - Code !!
 - [PaperDigest](https://www.paperdigest.org/review/)
-- [RunDocs](https://rundocs.github.io/starter/) - Documentation your projects. [Here](https://zhuanlan.zhihu.com/p/323457078) is a tutorial of how to create an website page document for your projects using [Gihub Page](https://pages.github.com/) and [RunDocs](https://github.com/rundocs/rundocs.io/tree/master/docs)
+- [RunDocs](https://rundocs.github.io/starter/) - Documentation your projects. [Here](https://zhuanlan.zhihu.com/p/323457078) is a tutorial on how to create a website page document for your projects using [GitHub Page](https://pages.github.com/) and [RunDocs](https://github.com/rundocs/rundocs.io/tree/master/docs)
