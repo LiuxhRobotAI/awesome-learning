@@ -109,6 +109,7 @@ A list of topics of interest. This list includes some very useful and recommende
 ## Tools
 
 - [webots](https://github.com/cyberbotics/webots) - A robot simulator that provides a complete development environment to model, program and simulate robots, vehicles and mechanical systems. Robot may be programmed in C, C++, Python, Java, MATLAB, or ROS with a simple API covering all the basic robotics needs.
+- [IsaacLab](https://github.com/isaac-sim/IsaacLab) - A GPU-accelerated, open-source simulation framework designed to unify and simplify robotics research workflows, such as reinforcement learning, imitation learning, and motion planning. It includes a diverse collection of robots, from manipulators, quadrupeds, to humanoids, with more than 16 commonly available models.
 - [Jackal Robot simulation platform](http://docs.ros.org/en/latest-available/api/jackal_tutorials/html/simulation.html) - A simulator for mobile robots.
 - [OpenCV](https://opencv.org/) - The world's biggest computer vision library.
 - [evo](https://github.com/MichaelGrupp/evo) - A tool for evaluating and comparing the trajectory output of odometry and SLAM algorithms.
